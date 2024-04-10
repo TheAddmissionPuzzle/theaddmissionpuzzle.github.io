@@ -83,7 +83,7 @@ section h2:before {
   left: 0;
   width: 100%;
   height: 380px;
-  background: url("images/kurban.png");
+  background: url("kurban.png");
   background-repeat: repeat-x;
   background-size: 950px;
   z-index: 1;
@@ -172,7 +172,7 @@ section h2:before {
   left: 0;
   width: 100%;
   height: 550px;
-  background: url("images/mosque.png");
+  background: url("mosque.png");
   background-repeat: repeat-x;
   background-size: 1600px;
   z-index: 1;
